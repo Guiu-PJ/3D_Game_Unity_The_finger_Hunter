@@ -1,4 +1,4 @@
-# The finger hunter - [Memoria](https://docs.google.com/document/d/1LNHIhCfZ0fK2_LSn2hd87FcuCsT--pDO_LU7JhSff9M/edit?usp=sharing) - [Vídeo](https://www.youtube.com/watch?v=7MRxeOOkrSM) - [Executable]([https://drive.google.com/file/d/1dw90iwfVW4H0JW9Ms709d3Na7Hj8qCro/view?usp=sharing](https://drive.google.com/file/d/1u8AyGm9NPJl5vX2Sd2sJEVShGngiBn-M/view?usp=sharing))
+# The finger hunter - [Memoria](https://docs.google.com/document/d/1LNHIhCfZ0fK2_LSn2hd87FcuCsT--pDO_LU7JhSff9M/edit?usp=sharing) - [Vídeo](https://www.youtube.com/watch?v=7MRxeOOkrSM) - [Executable](https://drive.google.com/file/d/1u8AyGm9NPJl5vX2Sd2sJEVShGngiBn-M/view?usp=sharing)
 
 Finger Hunter es un emocionante juego creado por Taufik, Enric y Guiu utilizando Unity. Sumérgete en esta aventura llena de desafíos donde tu objetivo es recolectar dedos y atravesar portales mientras evitas a los zombies que intentan detenerte.
 
